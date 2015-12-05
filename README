@@ -1,0 +1,48 @@
+# Pre-work - *TipsOnTable*
+
+**TipsOnTable** is a tip calculator application for iOS.
+
+Submitted by: **Rahul Krishna Vasantham**
+
+Time spent: **4** hours spent in total
+
+## User Stories
+
+The following **required** functionality is complete:
+
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] Settings page to change the default tip percentage.
+
+
+The following **additional** features are implemented:
+
+- [ ] List share per user on bill unto 5 users.
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://imgur.com/UoQ9CdL' title=’TipsOnTable’ width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+For the time bing only the basic application is developed. 
+I have not really gone into the additional features like extending app, improving UI etc. As of now it has been a good learning. The basic start up video has been of good help to start with.
+
+## License
+
+    Copyright [2015] [Rahul Krishna Vasantham]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
